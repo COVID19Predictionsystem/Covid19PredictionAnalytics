@@ -1,6 +1,6 @@
 # Covid19PredictionAnalytics
 ## 11.1 Update
-### finished tasks
+### finished development tasks
 - read & write
 - fill NaN
 - delete redundancy
