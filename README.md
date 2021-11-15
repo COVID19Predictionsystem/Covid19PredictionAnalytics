@@ -1,4 +1,12 @@
 # Covid19PredictionAnalytics
+## 11.14 Update
+## finished task
+- Covariance-Matrix analysis + T-sne
+- PCA + T-sne
+- use K-means processed data to draw a scatter plot
+- delete redundancy
+- comparsion with the scatter plot of Week 1
+******
 ## 11.1 Update
 ### finished development tasks
 - read & write
