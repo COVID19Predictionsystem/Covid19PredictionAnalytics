@@ -1,6 +1,11 @@
 # Covid19PredictionAnalytics
+## 11.29 Update
+###
+- reorganize dataset
+- group columns
+- label dataset
 ## 11.14 Update
-## finished task
+### finished task
 - Covariance-Matrix analysis + T-sne
 - PCA + T-sne
 - use K-means processed data to draw a scatter plot
